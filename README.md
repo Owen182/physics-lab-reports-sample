@@ -9,9 +9,9 @@ These reports demonstrate:
 - Technical communication
 
 ## Contents
-- Thermal Expansion
-- Newton's rings
-- Magnetic Force Probe
+- [Thermal Expansion](./Thermal%20Expansion/Thermal%20Expansion.pdf)
+- [Newton's Rings](./Newton's%20rings/Newton's%20rings.pdf)
+- [Magnetic Force Probe](./Magnetic%20force%20probe/Magnetic%20force%20probe.pdf)
 - Additional reports will be added over time.
 
 ## Tools Used
